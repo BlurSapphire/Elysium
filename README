@@ -1,0 +1,23 @@
+# Elysium Engine
+
+Elysium Engine is a lightweight C++ graphics engine using GLFW and OpenGL for window management and rendering.  
+It demonstrates basic window creation and shader management.
+
+## Features
+
+- Window creation and management via GLFW
+- Basic OpenGL rendering loop
+- Shader loading and compilation (WIP)
+- Example vertex and fragment shaders
+
+## Project Structure
+
+Bin folder contains executable file(for linux *.sh)
+
+## Build Instructions
+
+Make sure you have `g++`, `GLFW`, and `OpenGL` installed.
+
+To build:
+```sh
+make
