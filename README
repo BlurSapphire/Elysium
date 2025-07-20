@@ -19,5 +19,12 @@ Bin folder contains executable file(for linux *.sh)
 Make sure you have `g++`, `GLFW`, and `OpenGL` installed.
 
 To build:
+
+Type in the linux terminal
 ```sh
 make
+
+
+To run:
+
+Type in the linux terminal -> ./bin/ElysiumEngine
